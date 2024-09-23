@@ -4,4 +4,4 @@
 - **Programador Front-End**
 - **Ilustrador digital**
 - Estudante da UFBA
-- Atualmente mais focado em:
+- Atualmente mais focado em: JS, HMTL e CSS.
