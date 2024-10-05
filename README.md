@@ -2,10 +2,9 @@
 **Sou estudante de ADS na **UNIFEL** e programação **full stack** na DevMedia**
 
 - 💻**Programador Front-End** 
-- ✍**Ilustrador digital**
+- ✍**Ilustrador digital**                                                                      <img align="right" height="241" src="https://j.gifs.com/l5JY1l.gif"  />
 - 🤓**Estudante na Universidade Federal da Bahia**
 - 🖱**Sou um apreciador dos estudos sobre hardware e software**
-<img align="right" height="241" src="https://j.gifs.com/l5JY1l.gif"  />
 
 ### Atualmente mais focado em: ###
  
