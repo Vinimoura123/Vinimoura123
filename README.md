@@ -24,7 +24,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinimoura123&radius=16&theme=green&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
           
 #### Você pode me encontrar em: ####
 <a href="https://www.instagram.com/dentre_o_cartoon/profilecard/?igsh=MXFoM3FqMXQyc201Nw==">
