@@ -11,7 +11,7 @@
 
 ##
 
-<h2 align="center">Status</h2>
+<h2 align="left">Status</h2>
 
 ###
 
