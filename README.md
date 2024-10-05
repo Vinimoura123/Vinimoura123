@@ -13,3 +13,7 @@
 <a href="https://www.instagram.com/dentre_o_cartoon/profilecard/?igsh=MXFoM3FqMXQyc201Nw==">
 <img width="100" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
+
+<a href="https://www.linkedin.com/in/vinícius-reis-moura-5a44712aa/"> 
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
