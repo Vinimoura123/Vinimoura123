@@ -5,7 +5,9 @@
 - ✍**Ilustrador digital**
 - 🤓**Estudante na Universidade Federal da Bahia**
 - 🖱**Sou um apreciador dos estudos sobre hardware e software**
+##
 <img align="right" height="241" src="https://j.gifs.com/l5JY1l.gif"  />
+##
 
 ###
 ### Atualmente mais focado em: ###
